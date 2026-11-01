@@ -34,7 +34,7 @@ This project focuses on predicting the Remaining Useful Life (RUL) of aircraft e
 
 The complete implementation, including Python code, explanations, visualizations, and model evaluation, is available in the Google Colab notebook uploaded to this repository.
 
-**[View the Google Colab Notebook](./AirCraft_RUL_ML_Project.ipynb)**
+**[View the Google Colab Notebook](./Aircraft_RUL_ML_Project.ipynb)**
 
 ## Author
 
